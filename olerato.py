@@ -3,4 +3,3 @@ import pandas as pd
 
 print("olerato")
 
-print("JnSSgir")
